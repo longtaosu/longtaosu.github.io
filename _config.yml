@@ -2,7 +2,7 @@
 title: LongtaoSu Blog
 SEOTitle: 龙的博客 | LTS Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: longtaosu@sina.com
 description: "Every failure is leading towards success."
 keyword: "LTS, LTS Blog, 龙的博客, longtaosu, sulongtao"
 url: "https://longtaosu.github.io"          # your host, for absolute URL
@@ -21,6 +21,7 @@ RSS: false
 # weibo_username:     qiubaiying
 #zhihu_username:     qiubaiying
 github_username:    longtaosu
+cnblogs_username:    imstrive
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
